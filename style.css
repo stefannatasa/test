@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+}
+p{
+    color: blue;
+}
+.container{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    height: 300px;
+    background-color: aquamarine;
+}
+.a1{
+    width: 250px;
+    height: 200px;
+    background-image: url(09.jpg);
+    background-size: cover;
+   
+}
+.a2{
+    width: 250px;
+    height: 200px;
+    background-image: url(acika.jpg);
+    background-size: cover;
+   
+
+}
+.a3{
+    width: 250px;
+    height: 200px;
+    background-image: url(images.jpg);
+    background-size: cover;
+   
+}
+#aco{
+   
+   
+}
+#stele{
+    
+    
+
+}
+#laki{
+   
+   
+}
